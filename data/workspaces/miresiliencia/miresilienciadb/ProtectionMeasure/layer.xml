@@ -1,0 +1,16 @@
+<layer>
+  <name>ProtectionMeasure</name>
+  <id>LayerInfoImpl-48eaed07:1891a72c103:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-48eaed07:1891a72c103:-7ff1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-07-03 06:37:11.614 UTC</dateCreated>
+</layer>
